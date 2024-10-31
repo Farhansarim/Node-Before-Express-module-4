@@ -1,1 +1,0 @@
-This is a Node project covered all important topics related to node that'll use for daily tasks. A comprhensive guide for node learning.
