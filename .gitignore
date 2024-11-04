@@ -1,2 +1,8 @@
 # Ignore node modules
 node_modules/
+
+# Package
+package-lock.json
+
+# Vs Code
+.vscode
